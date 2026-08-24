@@ -1,20 +1,20 @@
-# Movie Recommendation System
+# Système de Recommandation de Films
 
-End-to-end movie recommendation system inspired by large-scale streaming platforms.
+Système de recommandation de films de bout en bout inspiré des plateformes de streaming à grande échelle.
 
-## Objective
+## Objectif
 
-Build a professional recommendation engine capable of generating personalized movie recommendations using:
+Construire un moteur de recommandation professionnel capable de générer des recommandations de films personnalisées en utilisant :
 
-- Popularity-based recommendation
-- Content-based filtering
-- Collaborative filtering
-- Hybrid recommendation
-- Machine learning ranking
+- La recommandation basée sur la popularité
+- Le filtrage basé sur le contenu
+- Le filtrage collaboratif
+- La recommandation hybride
+- Le classement par apprentissage automatique (Machine Learning Ranking)
 
-## Project Status
+## Statut du Projet
 
-Project in development
+Projet en cours de développement
 
 ## Technologies
 
@@ -28,7 +28,7 @@ Project in development
 - Docker
 - Git/GitHub
 
-## Project Structure
+## Structure du Projet
 
 ```text
 movie-recommendation-system/
@@ -40,3 +40,4 @@ movie-recommendation-system/
 ├── configs/
 ├── app/
 └── docs/
+```
